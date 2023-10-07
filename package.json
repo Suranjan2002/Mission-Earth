@@ -1,0 +1,21 @@
+{
+  "name": "tita_test_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.0.0",
+    "three": "^0.156.1",
+    "three-addons": "^1.2.0",
+    "three-bmfont-text": "^3.0.1",
+    "threex.domevents": "^1.0.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}

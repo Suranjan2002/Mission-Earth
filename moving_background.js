@@ -1,7 +1,7 @@
-import * as THREE from 'three'
+//import * as THREE from 'three'
 //import './style.css'
-import  'https://rawgit.com/jeromeetienne/threex.domevents/master/threex.domevents.js'
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
+//import  'https://rawgit.com/jeromeetienne/threex.domevents/master/threex.domevents.js'
+//import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 const container = document.querySelector(".background");
 const scene = new THREE.Scene();
 

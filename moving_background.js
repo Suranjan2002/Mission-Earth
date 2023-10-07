@@ -199,7 +199,7 @@ imgContainer.appendChild(img);
      renderer.render(scene, camera);
 
    }
-   const loader = new GLTFLoader();
+  
 
 
 animate()
